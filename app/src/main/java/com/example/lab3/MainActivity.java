@@ -10,7 +10,7 @@ import android.widget.EditText;
 import static android.provider.AlarmClock.EXTRA_MESSAGE;
 
 public class MainActivity extends AppCompatActivity {
-    public static final String EXTRA_MEASSAGE= "com.example.lab3.MESSAGE";
+    public static final String EXTRA_MEASSAGE = "com.example.lab3.MESSAGE";
 
 
     @Override
